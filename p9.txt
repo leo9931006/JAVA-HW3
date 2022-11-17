@@ -1,0 +1,10 @@
+class Car
+{
+int num;
+double gas;
+}
+void show()
+{
+	system.out.println("車號是"+this.num);
+	system.out.println("汽油量是"+this.gas);
+}
